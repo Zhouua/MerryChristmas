@@ -2,10 +2,10 @@
 
 使用gemini3创建的3D圣诞树交互式演示项目，结合了手势识别技术，让用户可以通过手势与圣诞树进行互动。
 
-<img width="1932" height="1388" alt="d420be79f8ab8922ffb0fd831cddab21" src="https://github.com/user-attachments/assets/d3cf233f-6b5f-403e-a2b8-b3f41c0893c0" />
-<img width="2754" height="1338" alt="f64d85e7f95f52d9a30bb27458c7cf83" src="https://github.com/user-attachments/assets/db8ef403-1185-4730-b83c-4bb16b2d600c" />
-<img width="1424" height="1334" alt="67bdebbf9312f593860cf21574a480de" src="https://github.com/user-attachments/assets/6568fefe-7c61-4f4d-9a49-758204af557d" />
-<img width="1748" height="1276" alt="64905909b736555c27cfd895bdc93d9a" src="https://github.com/user-attachments/assets/40d8d707-8fb0-4274-9da0-9af0110da049" />
+<img width="1932" height="1388" alt="d420be79f8ab8922ffb0fd831cddab21" src="https://github.com/user-attachments/assets/25d10780-4ccb-4b6a-8297-1f55dbe470f0" />
+<img width="2754" height="1338" alt="f64d85e7f95f52d9a30bb27458c7cf83" src="https://github.com/user-attachments/assets/d5732164-031b-4c6b-b247-3853dd2a389a" />
+<img width="1424" height="1334" alt="67bdebbf9312f593860cf21574a480de" src="https://github.com/user-attachments/assets/b5589dc9-fc04-4e74-9c42-dc23f9baf118" />
+<img width="1748" height="1276" alt="64905909b736555c27cfd895bdc93d9a" src="https://github.com/user-attachments/assets/42e8448e-b63a-4639-92ef-ef9c116c48a2" />
 
 
 ## 使用方法
